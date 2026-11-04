@@ -64,4 +64,4 @@ Esta foi a primeira versão de um MVP, e documentar o que eu faria diferente faz
 
 ## Autor
 
-**Walker Rocha** · Estudante de Ciência de Dados e IA (PUC Minas) · [LinkedIn](https://www.linkedin.com/in/walker-rocha-09a86525b) · [GitHub](https://github.com/WalkerRocha)
+**Walker Rocha** · Estudante de Ciência de Dados e IA (PUC Minas) · [LinkedIn](https://www.linkedin.com/in/walker-rocha) · [GitHub](https://github.com/WalkerRocha)
