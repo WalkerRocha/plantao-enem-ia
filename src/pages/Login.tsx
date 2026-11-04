@@ -83,7 +83,7 @@ const Login = () => {
                   >
                     Estudante: estudante@plantaoenem.com
                   </Button>
-                  <p className="text-xs mt-1">Senha: estudante123</p>
+                  <p className="text-xs mt-1">Senha: definida em VITE_DEMO_STUDENT_PASSWORD</p>
                 </div>
               </div>
             </div>

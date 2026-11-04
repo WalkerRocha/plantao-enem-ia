@@ -84,7 +84,7 @@ const AdminLogin = () => {
                     >
                       📧 professor@plantaoenem.com
                     </Button>
-                    <p className="text-xs mt-2 text-blue-600">🔒 Senha: professor123</p>
+                    <p className="text-xs mt-2 text-blue-600">🔒 Senha: definida em VITE_DEMO_ADMIN_PASSWORD</p>
                   </div>
                 </div>
               </div>
@@ -115,7 +115,7 @@ const AdminLogin = () => {
                   <Input
                     id="password"
                     type="password"
-                    placeholder="professor123"
+                    placeholder="••••••••"
                     value={password}
                     onChange={(e) => setPassword(e.target.value)}
                     className="pl-10"
